@@ -4,7 +4,7 @@
 
   https://hemant-mulchandani.github.io/DSA-Marathon-Git-Github-Email/ 
 
-![Mail Capture](DSA%20Marathon%20Git%20and%20Github%20Mail%20Capture.png) 
+![Mail Capture](https://github.com/Hemant-Mulchandani/DSA-Marathon-Git-Github-Email/blob/main/DSA%20Marathon%20Git%20and%20Github%20Mail%20Capture.png) 
 
 # Visit to live Interact :
 
