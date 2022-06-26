@@ -8,7 +8,7 @@
 
 # 📌 Visit to live Interact : 🔗
 
- https://Hemant-mulchandani.github.io/DSA-Marathon-Git-Github-Email/ 
+ https://Hemant-Mulchandani.github.io/DSA-Marathon-Git-Github-Email/ 
 
 
 # DSA🏃‍♂️Marathon Git Github Part-2 Email 📬
