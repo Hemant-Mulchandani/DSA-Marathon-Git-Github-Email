@@ -14,5 +14,3 @@
 # DSA🏃‍♂️Marathon Git Github Part-2 Email 📬
 
 ![Mail Capture](DSA%20Marathon%20Git%20%26%20Github%20%23Session_2%20Mail%20Capture.png)
-
-
